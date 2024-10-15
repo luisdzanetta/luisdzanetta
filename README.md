@@ -36,8 +36,6 @@ I'm Luis, a data analyst. Welcome to my GitHub profile!
 
 <br>
 
-<b> :chart_with_upwards_trend: Estatísticas</b>:
-
 <a href="https://github.com/luisdzanetta">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luisdzanetta&show_icons=true&theme=dark&include_commits=true"/>
 </a>
@@ -45,7 +43,6 @@ I'm Luis, a data analyst. Welcome to my GitHub profile!
 <a href="https://github.com/luisdzanetta">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdzanetta&layout=compact&langs_count=8&theme=dark"/>
 </a>
-
 
 <br>
 
