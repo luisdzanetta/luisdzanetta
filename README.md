@@ -34,7 +34,20 @@ I'm Luis, a data analyst. Welcome to my GitHub profile!
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Google Slides](https://img.shields.io/badge/Google_Slides-F4B400?style=for-the-badge&logo=google-slides&logoColor=white)
 
+<br>
 
+<b> :chart_with_upwards_trend: Estatísticas</b>:
+
+<a href="https://github.com/luisdzanetta">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luisdzanetta&show_icons=true&theme=dark&include_commits=true"/>
+</a>
+
+<a href="https://github.com/luisdzanetta">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdzanetta&layout=compact&langs_count=8&theme=dark"/>
+</a>
+
+
+<br>
 
 
 ## Connect with Me
