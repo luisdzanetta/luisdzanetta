@@ -3,7 +3,7 @@
 I'm Luis, a data analyst. Welcome to my GitHub profile!
 
 ## About Me
-- 🇧🇷 Brazilian Data Scientist and Ph.D. student
+- 🇧🇷 Brazilian Data Analyst (@CI&T) and Ph.D. student (@UNICAMP)
 - Always learning something new to stay ahead in the data field.
 
 
